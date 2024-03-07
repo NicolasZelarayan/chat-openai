@@ -1,0 +1,41 @@
+Øsynagro
+REQUISITOS PARA INSTALAR Y EJECUTAR LOS SISTEMAS DE
+SYNAGRO
+ESTOS REQUISITOS APLICAN A:
+● Contabilidad 3
+● Synagro 6
+● Construcción 2
+● Sueldos 2
+● Synagro 7
+REQUISITOS DE SOFTWARE MÍNIMOS
+REQUISITOS DE HARDWARE MÍNIMOS
+Windows 7
+Google Chrome
+Microsoft Office 2010
+REQUISITOS DE SOFTWARE RECOMENDADOS
+NOTAS
+1.
+REQUISITOS DE HARDWARE RECOMENDADOS
+2.
+CPU Dual Core Intel o AMD (Intel Core i3 o AMD Ryzen 3 o superiores)
+4GB de Memoria RAM
+5MB de velocidad de Internet
+Windows 10, Windows 11
+Google Chrome
+Microsoft Office 2021
+I.I
+CPU Quad Core Intel o AMD (Intel Core i5 o AMD Ryzen 5 o superiores)
+8GB de Memoria RAM
+20MB de velocidad de Internet
+Resolución de pantalla 1360 x 768 o superior
+Equipos basados en MAC OS no son compatibles de forma nativa con los sistemas, por lo que dicho
+equipo necesitará adicionalmente:
+a. Instalar y configurar un Virtual PC en su equipo, mediante Parallels Desktop o VirtualBox
+b. Cumplir con los requisitos mínimos de software y hardware en su equipo virtual.
+Las pruebas preliminares con Windows 11 ejecutaron correctamente todos los sistemas pero aún se sigue
+comprobando su funcionamiento y hasta no lanzarse la versión final del SO no puede garantizarse su
+funcionamiento.
+3.
+El software no requiere de instalación de servidores locales, excepto el caso del sistema "Sueldos", que
+para su uso en red necesitará montarse en un equipo que funcione como "Servidor".
+www.synagroweb.com

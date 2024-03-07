@@ -25,7 +25,7 @@ export const GET: APIRoute = async ({ request }) => {
 
   return responseSSE({ request }, async (sendEvent) => {
     const response = await openai.chat.completions.create({
-      model: 'gpt-3.5-turbo-16k',
+      model: 'gpt-3.5-turbo',
       stream: true,
       messages: [
         {

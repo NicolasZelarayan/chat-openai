@@ -1,0 +1,102 @@
+Øsynagro7
+ALTA DE USUARIOS APP MOBILE
+Para poder comenzar a utilizar la App primero ingresa a Gestión de usuarios desde tu
+Aplicación de Synagro 7 desktop:
+Detalle de Usuario
+Usuario
+Prueba109
+Mi empresa SRL
+●
+Es Admin Nombre
+Prueba
+Empresa
+Apellido
+Mobile
+Admin
+Email
+Contraseña
+pruebamobile109@gmail.co *********
+Nombre
+Email Validado
+Disco local (C:) TSYNAGRO Synagro7
+Perfil
+Usuario Guardado Exitosamente
+Hubo un problema al intentar crear el usuario de la Aplicación Mobile. Dinjase a la
+carpeta c:\Tsynagro\Synagro7, ejecute el chilkatax-9.5.0-win32.msi y
+vuelva a intentar
+chilkatax-9.5.0-win32.msi
++
+Si estás por crear un usuario nuevo asegúrate de ingresar un email existente en el
+campo en el que te lo piden
+Si ya tenés tu usuario creado tendrás que entrar por modo edición y guardar los datos.
++ Agregar Editar
+Habilitado Empresa Default
+Mi empresa SRL
+Acceso a todos los establecimientos
+Establecimientos
+Luego de que crees o modifiques tu usuario recibirás un email para validar tu cuenta de
+correo! Si no recibiste el correo de verificación en tu bandeja de entrada, revisa el Spam.
+Aceptar
+Aclaración: En algunos casos será necesario instalar un complemento especial en tu PC para
+poder recibir el email. Esto se indicará a través de un mensaje al momento de guardar el usuario.
+Borrar
+Reenviar Ervall
+Para instalarlo, debes dirigirte a la carpeta c:\Tsynagro\Synagro7 y ejecute el chillkatax-9.5.0-
+win32.msi.exe y vuelva a intentar validar el correo.
+Fecha de modificación Tipo
+7/2/2023 17:28
+Módulo Default
+Administración
+Paquete de Windo...
++
+Tamaño
+5,073 KB
+Si tenés más de una base de datos y queres utilizar la App para todas entonces repetí el
+proceso en cada una. ¡El correo solo será validado una única vez!
+www.synagroweb.com 1
+Øsynagro7
+admin@synagro.com.ar
+para mi
+synagro
+Estas a un paso de validar tu cuenta
+Estimado cliente, para poder comenzar a utilizar la aplicación
+móvil de Synagro debe validar su cuenta haciendo click en el
+siguiente enlace:
+synagro
+VALIDAR CUENTA
+Synargo
+Pringles 1372, Yerba Buena. Tucumán, Argentina.
+Hacé click en el link o en el botón del email y listo! Tu cuenta estará validada y podrás
+comenzar a utilizar la app.
+Para poder loguearte en la App necesitas una contraseña. Luego de validar tu email recibirás
+un nuevo email con la contraseña que debes usar la primera vez que ingreses en la App:
+¡Ya podés utilizar Synagro Mobile!
+mar, 31 ene, 18:53 (hace 2 días)
+Ya validaste tu cuenta, estos son los datos de tu usuario:
+Usuario: geronimo.dezavalia@synagro.com.ar
+Contraseña: XKMgBVa0
+Cuando ingreses por primera vez a la cuenta, deberás cambiar la contraseña.
+Si todavia no te descargaste la aplicación, podés hacerlo desde los siguientes enlaces:
+Lo único que falta es bajarte la App y podrás comenzar a vivir la experiencia Synagro App.
+Para esto debes ir al Playstore o Appstore, buscar nuestra aplicación (Synagro 7) e instalarla.
+Deberás ingresar con tu email y la contraseña recibida
+www.synagroweb.com 2
+Øsynagro7
+Email
+admin@synagro.com.ar
+Contraseña
+Synagro
+*********
+INICIAR SESIÓN
+Luego de tu primer ingreso tendrás que modificar tu contraseña:
+Crear una nueva contraseña
+Nueva contraseña
+%
+X Poseer al menos 8 caracteres.
+X Contiene menos una mayúscula.
+X Contiene menos un número.
+X Incluye caracteres especiales: *? @ # $/00 =.=
+Repetir nueva contraseñal
+GUARDAR CONTRASENA
+¡Listo! Fue fácil, ahora podrás empezar a trabajar desde tu teléfono.
+www.synagroweb.com 3

@@ -1,0 +1,63 @@
+Synagro
+SOFTWARE AGROPECUARIO
+Ventajas del Servicio
+Web vs Servidor local
+Synagro
+Creación Marzo 2020
+Asesoramiento a Distancia - Soporte Técnico
+Ventajas del servicio Web
+1. Integridad de datos : Posibilidad de conexión directa a su información las
+24 hs los 365 días del año.
+2. Conectividad: Posibilidad de, a través una conexión a internet, acceder a sus
+datos desde cualquier pc en el lugar del mundo que se encuentre, con solo tener
+instalado el sistema con el cual trabaja.
+3. Operatividad: contamos con servidores potentes a nivel de Hardware
+de ultima generación y con alto rendimiento que garantiza la operatividad de
+nuestros clientes.
+4. Respaldos: Backups diarios a cargo de SYNAgro listos para ser montados o
+consultados ante cualquier eventualidad propia o ajena, incluso con la posibilidad
+de acceder a respaldos de determinada fecha por algún error de carga o lo que
+fuere. Regularmente se realiza un control de integridad de las bases de datos
+respaldadas para asegurar que no estén corruptas al momento de requerirlas.
+5. Soporte técnico : Posibilidad de acceder por parte del equipo técnico de
+SYNAgro a consultar datos para la rápida corrección, en el caso que se presente
+algún inconveniente.
+6. Seguridad: Saber que su información se encuentra resguardada bajo políticas de
+seguridad y privacidad.
+descargas
+7. Cobertura legal: Los servidores de La Nube pueden estar en cualquier parte del
+mundo. Si hay problemas, no está claro qué ley debe aplicarse. Por lo que la
+información no está expuesta legalmente.
+8. Actualización: Acceso a
+automáticas de mejoras y
+nuevas funcionalidades que periódicamente se desarrollan a los productos
+Notas: el sistema fue concebido para funcionar con la base en la web, dichas bases reciben un
+mantenimiento y optimización permanente por parte de nuestro departamento IT para funcionar
+siempre al mejor rendimiento posible. Puede suceder que al no recibir dicho mantenimiento por
+un periodo prolongado pierda rendimiento derivando en una experiencia más lenta de uso.
+Estos servicios son exclusivos de clientes en esquema WEB, al pasar a local se pierden los
+mismos.
+Implementación del servicio en Red Lan (MySql Local)
+• Hardware adecuado y mantenimiento : La empresa debe contar con el
+equipamiento informático requerido y el mantenimiento de los mismos deberá ser
+monitoreado por personal idóneo en el tema.
+• Integridad de datos: a cargo del cliente.
+• Conectividad: acceder a sus datos desde una red local y PCs Conectadas a dicha red.
+• Operatividad: a cargo del cliente.
+• Respaldos: Backups a cargo del cliente.
+●
+Soporte técnico(con servicio): Posibilidad de acceso limitado por parte del
+equipo técnico de SYNAgro a consultar datos, en el caso que se presente algún
+inconveniente, accediendo a través de un acceso remoto provisto por cliente.
+• Seguridad: a cargo del cliente.
+• Actualización(con servicio): Acceso a descargas automáticas de mejoras y
+nuevas funcionalidades.-
+• Actualización(sin servicio): Sin Acceso a descargas automáticas de mejoras y
+nuevas funcionalidades.-
+NOTA: Es importante destacar que al momento que un cliente decide prescindir de
+nuestros servicios, optando por un esquema de servidor propio (Servicio MySql Local)
+estos beneficios se verán directamente afectados una vez realizado el proceso de instalación
+de nuevo esquema, quedando así bajo la responsabilidad del cliente.-
+Para este proceso de implementación es necesario que el cliente detenga su operatividad
+al momento que se lleva a cabo la instalación y configuración dependiendo del la velocidad
+de conexión remota provista por el cliente, dado un escenario ideal seria 1 dia.-

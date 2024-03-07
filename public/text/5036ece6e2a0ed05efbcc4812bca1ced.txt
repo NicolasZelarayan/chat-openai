@@ -1,0 +1,794 @@
+Synagro
+SOFTWARE AGROPECUARIO
+Como cargar y
+Cancelar un Anticipo
+Contabilidad
+Actualización Octubre 2020
+Asesoramiento a Distancia
+A- Cómo cargar un anticipo:
+Antes de la Carga:
+● Verificar que las cuentas de anticipos estén asignadas en el circuito
+contable, para ello ir a Archivo >Plan de Cuentas >Configuración de
+grupos.
+Plan de Cuentas
+1000000 ACTIVO
+2000000 PASIVO
+3000000 PATRIMONIO NETO
+4000000 INGRESOS
+5000000 EGRESOS
+Detalle de la Cuenta Categoría de Impuestos
+Código: 1000000
+Nombre: ACTIVO
+Detalle:
+Recibe Asientos:
+Grabar
+Subcuenta
+Agregar Agregar
+Cuenta
+Cuentas de Resultados
+Ingresos: INGRESOS
+Egresos: EGRESOS
+Registros de Plan
+de Cuentas
+Cancelar
+Editar
+Imprimir Plan de
+Cuentas
+Configuración de Rubros de IVA
+Grupos
+Borrar
+Control de
+Cuentas
+Duplicadas
+Nivel:
+Control de error
+de Cuentas
+Iv
+Salir
+O
+X
+Dentro de Órdenes de pago Cta. Cble. Y de Órdenes de pago Pagos,
+deben figurar las cuentas de Anticipos (proveedores, contratistas, empleados)
+que se utilicen.
+Dentro de Recibos - Cta. Cble y dentro de Recibos Pagos, debe figurar la
+cuenta de Anticipo de clientes:
+Cuentas Contables - Agrupación
++
+1132010-Anticipo Proveedores
+1132020-Anticipo Contratistas
+1132030-Anticipo Empleados
+1132040 - Anticipo Honorarios
+1132060-Otros Creditos
+1132100-PRESTAMOS ENTRE SOCIEDADES
+2152000-VA a Pagar
+2153000 - Impuesto a las Ganancias a Pagar
+2154000 - Impuesto a los Ingresos Brutos a Pagar
+2155000- Impuesto Automotor a Pagar
+2156000 - Impuesto Inmobiliario a Pagar
+2157100 - Retención Imp. a las Ganancias a Pagar
+2157200 Retención IB a Pagar
+5000000-EGRESOS
+Órdenes de Pago - Pagos
+Borrar
+4140000 DISPONIBILIDADES
+Proveedores
+E-Recibos - Cta. Cble.
+1132010 Anticipo Proveedores
+2131000-TARJETAS DE CRÉDITO
+1110000 - DISPONIBILIDADES
+2163000 - Anticipos de Clientes
+4000000 - INGRESOS
+Recibos - Pagos
+1110000-DISPONIBILIDADES
+2163000 - Anticipos de Clientes
+Grabar
+1000000 ACTIVO
+2000000 PASIVO
+3000000 PATRIMONIO NETO
+4000000 INGRESOS
+5000000 EGRESOS
+D
+Leer
+Cerrar
+X
+1) Para Anticipo Proveedores debemos ingresar al Circuito "Proveedores y
+Compras" a la solapa Orden de Pago:
+Synagro 7 - Maxi-Synagro 7-v7.014
+synagro7
+1.Maxi Ferreyra
+68
+Centro de Costo: 1
+Compras
+Ventas
+Comercializacion
+Finanzas
+Contabilidad e
+Impuestos
+Configuración
+Administración
+Uso Frecuente
+Remito de compra
+Campo
+Ingresos de Datos
+Aplicación de comprobantes de
+compra
+Factura de compra
+Liquidación de compra
+Liquidación de compra: ajuste de
+crédito
+Liquidación de compra: ajuste de
+débito
+Liquidación de hacienda de compra
+Nota de crédito de compra
+Nota de débito de compra
+Nota de pedido
+Orden de compra
+Orden de pago
+Orden de pago multiple
+Orden de pago provisoria
+Proveedores
+Informes
+0
+2) Una vez dentro de la orden de pago presionamos agregar y
+seleccionamos en tipo de pago "sobre anticipo", elegimos al proveedor y
+donde dice cta. contable seleccionamos "Anticipo a Proveedores" por
+último en la pestaña de pago la forma en la que entregamos el anticipo.
+Ordenes de Pago
+Desde: 12-06-21 ✓ Hasta: 12-07-21 ✓
+Emp. Fecha Número
+1
+24-06-21
+1
+24-06-21
+24-06-21
+01-07-21
+1
+1
+1
+1
+1
+<
+02-07-21
+02-07-21
+07-07-21
+12-07-21
+1
+Empresa: 1 Fecha: 01-07-21
+Número:
+Tipo Pago: s/Anticipo v Proveedor:
+Detalle: Ejemplo cancelacion de Anticipos
+Solicita:
+Pagos Facturas Retenciones
+N
+Forma de Pago
+Efectivo
+Agregar
+Editar
+1.Maxi Ferreyra
+4 Juan Perez
+5 Juan Perez
+6 Juan Perez
+11 Juan Perez
+7 Msofi
+8 Msofi
+9 Juan Perez
+10 Juan Perez
+Filas: 11
+Compras
+Ventas
+Filtrar
+Centro de Costo: 1
+Finanzas
+Proveedor
+Comercializacion
+Contabilidad e
+Impuestos
+Controla:
+Configuración
+Synagro 7 - Maxi-Synagro 7-v7.014
+synagro7
+Imprimir
+Anticipo Proveedores (1132010) 1
+Anticipo Proveedores (1132010) 1
+Anticipo Proveedores (1132010)
+1 Juan Perez
+11
+Anular
+Cuenta Contable
+Importe
+Cuenta
+121,000.00 Caja Escritorio (1111010)
+121,000.00
+Imp. Listado
+Centro de Costo: 1
+Administración
+Ver Asiento
+Imprimir Cheques
+Uso Frecuente
+Certificados de depósito
+MI
+Recibo
+Recibo multiple
+Informes
+3) Para "Anticipo de clientes", debemos ingresar al Circuito "Clientes y
+Ventas" y generar un "Recibo":
+Ingresos de Datos
+Aplicación de comprobantes de
+venta
+U.N.
+Plan de cobro
+Presupuesto de venta
+Autoriza:
+Clientes
+Factura de venta
+Liquidación de hacienda de venta
+Liquidación de venta
+Liquidación de venta: ajuste de
+crédito
+Liquidación de venta: ajuste de
+débito
+Nota de crédito de venta
+Nota de débito de venta
+Orden de venta
+1
+U.N.
+Campo
+W
+Moneda: Peso
+Cta. Contable: Anticipo Proveedores (1132010)
+Corredor:
+[Ninguno]
+Bco. de Tercero
+Detalle
+Importe Total
+866,934.75 Pago Factura No. 00003-00091829 - Dolar a peso
+346,773.90
+121,000.00
+121,000.00 Ejemplo cancelacion de Anticipos
+331,500.00 Pago Factura No. 00001-00000001
+55,250.00 Pago Factura No. 00001-00000002
+1,000,000.00
+406,517.65 Pago Factura No. 00001-00009899 - Ejemplo Dif Caml
+119,641,782.80
+Cotiz.:
+V
+Número
+95.72
+N.:
+O
+X
+Leer
+>
+Seleccionar comprobantes.
+Fec. Emis. Fec. Pago
+01-07-21 01-07-21 Borrar
+Salir
+2) Una vez dentro de recibo de cobro presionamos agregar y seleccionamos
+en tipo Recibo "Sobre Anticipo", elegimos el cliente y donde dice cta. contable
+seleccionamos "Anticipo a Clientes" por último en la pestaña de cobro
+indicamos la forma en la que entregamos el anticipo
+Ventas - Recibos
+Desde: 12-06-21 Hasta: 12-07-21
+Emp. Fecha Número
+1
+28-06-21
+1 05-07-21
+05-07-21
+05-07-21
+05-07-21
+05-07-21
+12-07-21
+1
+1
+1
+1
+1
+12 AGD
+13 AGD
+14 AGD
+<
+[F1) Empresa: 1 Fecha: 12-07-21
+Tipo Recibo: S/Anticipo M
+Detalle:
+[F2]
+15 AGD
+16 AGD
+17 AGD
+18 AGD
+Pagos Facturas Retenciones
+N° Forma de Pago
+1 Efectivo
+Agregar Editar
+Cliente
+Cliente:
+Cuotas
+Agregar Editar
+Número:
+1 AGD
+Filtran Comprob. Listado
+Empresa: 1 Fecha: 12-07-21 Número:
+Proveedor:
+1 Juan Perez
+Detalle:
+Cuenta Contable
+Anticipos de Clientes (2163000)
+Anticipos de Clientes (2163000)
+Anticipos de Clientes (2163000)
+Importe
+121,000.00 Caja Escritorio (1111010)
+121,000.00
+Filtrar Imprimir
+18
+Cuenta Contable
+Anular
+Ver Asiento
+Comprobantes cancelados
+Comprobante U.N. Fecha Moneda Cotización Importe Total
+C.C.: 1
+v
+U.N.
+1
+Importe
+Cancelado
+1
+U.N.
+1
+Total
+1,397.55
+1,000,000.00
+11,590,590.00 Cobro de Factura Nro. 00001-00000010
+5,508.88
+100,000.00
+287,370.00 Cobro de Factura Nro. 00001-00000014
+121,000.00
+189,229,266.51
+Cta. Cble.: Anticipos de Clientes (2163000)
+Moneda: Peso
+Corredor:
+Cotización:
+C.C.: 1 Aplicación ND/NC x dif de cambio
+[Ninguno]
+Corredor:
+[Ninguno]
+Detalle
+Moneda: Peso
+Comprobantes aplicados
+B- Cruce de anticipo con factura:
+1) Una vez que tenemos cargada la factura y ya tenemos cargado el
+anticipo debemos realizar el cruce pertinente por medio de "aplicación
+de comprobantes" ya sea que se trate del circuito compras o ventas.
+Debemos seleccionar al proveedor/cliente en cuestión, luego hacer click
+en seleccionar comprobantes
+✔
+v
+Banco de Tercero Número Cheque Fec. Em. Fec. Pago
+U.N.: 1
+95.99
+V
+Comprobante U.N. Fecha Moneda Cotización
+Seleccionar comprobantes
+12-07-21 12-07-21 Borrar
+Importe Total
+Leer
+Agregando..
+Grabar
+Salir
+Seleccionar comprobantes...
+Importe Aplicado Importe Aplicado
+Convertido
+Cancelar
+Ver
+Asiento
+2) Se abrirá automáticamente un ventana donde se mostraran los
+comprobantes pendientes, en la cual debemos tildar, el anticipo a aplicar
+Salir
+y las facturas a cancelar. La cancelación podrá ser por una factura con el
+mismo monto que el anticipo (Factura = Anticipo) o por una factura por
+un monto menor al mismo, en ese caso se haría una aplicación
+PARCIAL del anticipo.
+Seleccionar comprobantes
+Moneda: Peso
+Comprobantes a cancelar
+Comprobante
+FA-00001-00001324
+FA-00001-00000345
+FA-00001-00002244
+1
+1
+Comprobantes a aplicar
+Comprobante
+OP-6
+OP-11
+OP-9
+Desde 12-06-21
+Emp Fecha Número
+24/06/2021 2
+24/06/2021 3
+07/07/2021 4
+12/07/2021 5
+12/07/2021 6
+Juan Perez
+Juan Perez
+Juan Perez
+Juan Perez
+Juan Perez
+Empresa: 1 Fecha: 12-07-21
+Proveedor
+1 Juan Perez
+Detalle:
+1
+Agregar Editar Anular
+U.N.
+1
+1
+U.N. Fechal Moneda Cotización
+29/06/21 Peso
+1 12/07/21 Peso
+Fecha Moneda Cotización
+24/06/21 Peso
+24/06/21 Peso
+01/07/21 Peso
+07/07/21 Peso
+Proveedor
+Número:
+Comprobantes cancelados
+Comprobante U.N. Fecha Moneda Cotización
+FA-00001-00002244 1 12/07/21 Peso
+Filtrar Imprimir
+95.99
+C.C. 1
+Corredor:
+Importe Total
+3) Una vez seleccionados apretamos aceptar y por ultimo grabar.
+Compras Aplicación de Comprobantes
+Hasta: 12-07-21
+121,000.00
+95.53
+95.69
+95.99
+95.53
+95.72
+95.91
+Importe
+Cancelado
+121,000.00
+Importe Total
+Original
+121,000.00
+121,000.00
+1,000,000.00
+Importe Total Importe Cancelado Importe a Cancelar
+121,000.00
+71,000.00
+326,700.00
+121,000.00
+50,000.00
+0.00
+0.00
+326,700.00
+121,000.00
+Detale
+[Ninguno]
+Aplicación ND/NC x dif de cambio
+Total a Cancelar:
+Importe Aplicado
+Original
+OP-11
+50,000.00
+0.00
+400,000.00
+Comprobantes aplicados
+admin
+admin
+admin
+admin
+admin
+✔Moneda: Peso
+Importe a Aplicar
+Original
+121,000.00
+v
+71,000.00
+121,000.00
+600,000.00
+1 01/07/21 Peso
+Total a Aplicar:
+Comprobante U.N. Fecha Moneda Cotización
+Importe a Aplicar Cotización
+Convertido por Pagos
+71,000.00 ☐
+121,000.00 |
+600,000.00 L
+Usuario Fecha Usuario Hora
+24/06/2021 09:55:20
+24/06/2021 09:57:40
+07/07/2021 11:43:09
+12/07/2021 10:27:56
+12/07/2021 10:49:51
+95.72
+121,000.00
+Aceptar
+121,000.00
+121,000.00
+Cancelar
+-DX
+Importe Total Importe Aplicado Importe Aplicado
+Convertido
+Leer
+Seleccionar comprobantes
+X
+Ver
+Asiento
+121,000.00
+Sair
+4) De esta forma podemos ver en la cuenta corriente del proveedor como
+quedó vinculado el anticipo con la factura.
+Cuenta Corriente de Proveedores
+Fecha de Consulta
+Desde: 01-01-00 Hasta: 12-07-21
+C □ □□□
+1
+1
+1
+1
+1
+1
+24-06-21 AC-
+1
+24-06-21 OP-
+1 24-06-21 FA-
+M 1
+1 24-06-21 AC-
+1 29-06-21 FA-
+1 01-07-21 FA-Ejemplo Dif Cambio
+1 01-07-20P-Einmalo cancelacion de Anticinos
+1 07-07-21 NV-
+1 07-07-21 LC-
+1
+1
+24-06-21 ND-
+24-06-21 AC-
+24-06-21 OP-
+24-06-21 ND-
+1 07-07-21 OP-
+07-07-21 NV-
+07-07-21 AC-
+12-07-21 OP-Pago Factura No. 00001-00009899 -
+Ejemplo Dif Cambio
+1
+1
+24-06-21 OP- Pago Factura No. 00003-00091829-Dolar 24-06-21 00000-00000004
+a peso
+K
+Exportar
+12-07-21 ND-
+12-07-21 AC-
+1. 12-07-21 FA-Ejemplo cancelacion de anticipos
+12-07-21
+1
+Carga de D
+Proveedores
+Facturas
+Consolidado
+Empresas..
+Orden de
+Pago
+@
+E-Mail
+Remitos
+Negro Ledesma
+Proveedor:
+IK 4 1
+Zoom: 100
+Ver Regla
+1 Juan Perez
+Excluir NC/ND pendientes de recibir
+24-06-21 00001-00000242
+24-06-21 00000-00000001
+24-06-21 00000-00000005
+24-06-21 00001-00000122
+24-06-21 00000-00000002
+24-06-21 00000-00000006
+24-06-21 00001-00001324
+24-06-21 00000-00000003
+29-06-21 00001-00000345
+01-07-21 00001-00009899
+01-07-21 00000-00000011
+07-07-21 00001-00000123
+07-07-21 00001-00000334
+07-07-21 00000-00000009
+07-07-21 00003-00000124
+07-07-21 00000-00000004
+12-07-21 00000-00000010
+12-07-21 00001-00004244
+12-07-21 00000-00000005
+12-07-21 00001-00002244
+12-07-21 00000-00000006
+▶
+Proveedores - Anticipos Emitos vs. Anticipos Cancelados
+Desde: 01-01-00
+Hasta: 05-10-17 Proveedor:
+866,934.75
+0.00
+0.00
+346,773.90
+0.00
+0.00
+121,000.00
+Zoom+
+Zoom-
+Ver Modo Impresión
+0.00
+0.00
+0.00
+0.00
+121.000 0
+0.00
+1,210,000.00
+1,000,000.00
+0.00
+0.00
+406,517.65
+Proveedor
+Casanova
+05/10/17 Anticipo de O.P. NÃ° 17 - Carga de anticipo a proveedores
+05/10/17 CancelaciÃ³n del anticipo emitido por Fact. NÂ°17-
+0.00
+0.00
+0.00
+Totales: 120,145,128.80 119,871,828.80
+Zoom
+Zoom Página:
+100 Zoom
+0.00
+1.143.45
+0.00
+121,000.00
+0.00
+121,000.00
+0.00
+0.00
+6,080.25
+0.00
+0.00
+2,432.10
+0.00
+0.00
+121,000.00
+0.00
+326,700.00 -326.700.00 95.69
+405,374.20
+-732,074.20 95.72
+0.00 -611,074 20 95.72
+1,210,000.00 -1,821,074.20 95.91
+0.00
+-611,074.20 95.91
+0.00
+388.925.80
+95.91
+400,000.00
+-11,074.20 95.91
+0.00
+-11,074.20
+0.00
+395,443.45
+394,300.00
+394,300.00
+273,300.00 95.99
+273,300.00
+273,300.00
+Casanova
+Filtrar Moneda
+Todas
+-338,261.55
+-344,341.80
+-344,341.80
+2,432.10
+0.00
+0.00
+Imprimir
+95.53
+95.53
+95.53
+95.53
+5) Se recomienda revisar el informe "Anticipos emitidos Vs Anticipos
+Cancelados" útil para poder ver los anticipos cargados con los cruces
+realizados y lo que nos queda pendiente (desde: Consultas /
+Proveedores / anticipos emitidos vs cancelados)
+95.53
+95.53
+95.99
+Proveedores: Anticipos Emitidos vs. Anticipos Cancelados
+Exportar
+95.99
+9,075.00
+0.00
+0.00
+3,630.00
+10,000.00
+0.00
+0.00
+1,266.62
+0.00
+0.00
+0.00
+0.00
+1,264.10
+0.00
+12,615.99
+10,426.44
+0.00
+0.00
+4,235.00
+10,000.0
+10,000.00
+0.00
+0.00
+0.00
+0.00
+1,263,690.45
+Anticipos Cancelaciones
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1,266.62
+0.00
+3,414.15
+4,235.00
+0.00
+12,615.99
+0.00
+0.00
+4,170.58
+0.00
+0.00
+-10,000.00
+10,000.0
+10,000.00
+@
+E-Mail
+0.00
+0.00
+1,260.55
+3.55
+1,260,848.74
+Proveedores.
+-DX
+Generar
+Saldos
+-3,630.00
+-3.630.00
+-3,630.00
+0.00
+0.00
+0.00
+1,266,62
+0.00
+0.00
+-3.414.15
+-7,649.15
+-6,385.05
+-19,001.04
+-6,385.05
+4,041.39
+-129.19
+-129.19
+4,105.81
+05-10-17
+Pág. 1/ 1
+OO
+10,000.00
+0.00
+4,105.81
+4,105.81
+2,845.26
+2,841.71
+2,841.71
+Generar
+Cerrar
+0.00
+Salir

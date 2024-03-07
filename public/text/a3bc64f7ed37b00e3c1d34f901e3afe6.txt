@@ -1,0 +1,27 @@
+Synagro
+SOFTWARE AGROPECUARIO
+Requisitos para pasar
+a servidor local
+Synagro
+Creación Marzo 2020
+Asesoramiento a Distancia - Soporte Técnico
+Requisitos para pasar a servidor local
+Requisitos de Software:
+• Windows 7 o superior (Versiones Professional/Ultimate preferentemente)
+• MySQL Workbench o SQLyog (Para configuraciones adicional en red)
+• Nombre de HOST de Servidor o dirección IP (Para configuraciones adicional en red)
+• Grupos de trabajos o dominios preconfigurados en los equipos clientes/host (Para
+configuraciones adicional en red)
+Requisitos Hardware:
+• Memoria RAM: 8 GB Windows
+• Procesador 64 bits: Intel/AMD (generación Xeon Dual Core con tecnología de doble
+núcleo) (preferentemente) - Opcional Intel Pentium Versiones i3 - Ryzen 3 (o superior).
+• Disco Rígido, espacio mínimo disponible de 120 GB.
+• Adaptador de red Gigabit 100/1000Mbps (Para funcionamiento en Red Lan)
+Aclaración: Para lograr la implementación es necesario que:
+a- El cliente disponga de un personal técnico
+b- Debe tener conocimiento de la estructura de red en caso que el sistema deba funcionar en
+una red lan.
+c- Si el cliente no abona ningún tipo de servicio o no está disponible en la web, no tendrá
+actualizaciones de sistemas y los respaldos de bases de datos y el mantenimiento de la
+misma queda bajo exclusiva responsabilidad del cliente.

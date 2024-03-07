@@ -1,0 +1,57 @@
+DEMO
+INFORME DE LO
+QUE SALDRA EN
+UPDATE
+Pruebas en UAT
+CAPACITACION/
+VIDEO/MANUAL
+INSTALADOR UAT
+Synagro
+Software Agropecuario
+1- Desde asesoramiento a distancia, habrá dos encargados en visualizar la Demo de los
+días viernes. (Campo y contabilidad).
+2-
+El lunes próximo a la demo, se presentará informe de los que se subirá en el UPDATE
+PRUEBAS EN UAT
+esa semana.
+Medio de comunicación:
+Novedades de producto (x wsp) - Encargado: Ramón.
+Comisiones especializadas (x wsp)- Encargado: Ramón.
+Asesoramiento a distancia (x wsp)- Encargado: Ramón.
+Impacto UPDATE (Google Space) - Encargado: Ramón.
+3- Post Demo Ramón deberá gestionar capacitaciones de temas de impacto o mejoras
+que se necesiten informar cambios. En caso de no hacer falta capacitación se deberá
+solicitar video o manuales a los PO. El plazo de entrega será hasta el martes por la
+mañana post demo.
+4- Desde el momento que se tenga la capacitación/ video/ manual, los asesores tendrán
+la posibilidad de realizar pruebas.
+Bases disponibles para ASESORES DE ZONA:
+https://drive.google.com/drive/folders/14imL 13dE riUp9VlxOHCbCHLdg9xETF
+Objetivo de pruebas UAT:
+Acción preventiva ante situaciones que presenten al cliente, es decir, reducir el
+impacto de errores ante el cliente y mesa de ayuda.
+Poder realizar documentación para que posteriormente se suba en el drive
+(Instructivos syn 7), plataforma. Y se entregue a clientes internos y externos.
+El área de Experiencia del cliente podrá preparar capacitaciones a clientes de
+temas de impacto o modificar las ya existentes en caso de ser necesario.
+Página 1 | 2
+syn_asesores7aq_uat (con agroquímica activa)
+syn_asesores7bo_uat (para Bolivia)
+syn_asesores7uy_uat (para Uruguay)
+syn_asesores7_uat (para argentina sin agroquímica)
+El usuario es admin y la clave admin para todas.
+Bases disponibles para ASESORES DE MESA DE AYUDA:
+syn_mesa7aq_uat (Argentina con agroquímica activa)
+syn_mesa7bo_uat (Para Bolivia)
+syn_mesa7uy_uat (Para Uruguay)
+syn_mesa7_uat (Para Argentina sin agroquímica)
+El usuario es admin y la clave admin para todas.
+Bases disponibles para ASESORES DE EXPERIENCIA DEL CLIENTE:
+syn_exp7_uat (base de synagro7 sin agroquimica)
+syn_exp7aq_uat (base de syangro7 con agroquimica)
+syn_expbo7_uat (base de synagro7 Bolivia)
+syn_expuy7_uat (base de synagro7 Uruguay)
+El usuario es admin y la clave admin para todas.
+Synagro
+Software Agropecuario
+Página 2 | 2

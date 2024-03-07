@@ -7,8 +7,8 @@ import {
 } from 'cloudinary';
           
 cloudinary.config({ 
-  cloud_name: 'midudev', 
-  api_key: '898535479927365', // es pública
+  cloud_name: 'deds7zv36', 
+  api_key: '532711864662233', // es pública
   api_secret: import.meta.env.CLOUDINARY_SECRET
 });
 

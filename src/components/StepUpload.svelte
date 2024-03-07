@@ -40,7 +40,7 @@
 </script>
 
 {#if files.accepted.length === 0}
-  <Dropzone
+  <Dropzone containerClasses="border-2 border-dashed border-gray-300 p-4 rounded-md"
     accept="application/pdf"
     multiple={false}
     on:drop={handleFilesSelect}>Arrastra y suelta aquí tu PDF</Dropzone
